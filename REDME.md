@@ -2,4 +2,5 @@
 ## Teachnologies
 - ASP.NET core 3.1
 - Entity Framework
-## Config
+- Install package: EF.sqlserver,EF.tool,EF.design
+## 
